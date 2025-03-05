@@ -1,7 +1,7 @@
 
 ---
 
-### **README.md para o Backend**
+### **README.md Backend**
 
 ```markdown
 # Backend do Sistema de Controle de Gastos
